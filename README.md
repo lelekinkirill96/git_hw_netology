@@ -8,7 +8,7 @@ https://github.com/lelekinkirill96/git_homework/commit/ba11165d94b98011d7a3a406d
 
 ### Задание 2
 
-https://github.com/lelekinkirill96/git_homework/commit/0f28bd031f49c449bb06f58e66755baf35d8d0f8
+https://github.com/lelekinkirill96/git_homework/commit/b811d37a79471bb77f5ab9084ddfe56a1e335d13
 
 ### Задание 3
 
